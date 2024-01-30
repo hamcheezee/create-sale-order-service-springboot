@@ -71,13 +71,6 @@ public class SaleOrderController {
 		return "Delete a Sale Order Success!!"; 
     }
 
-    // @GetMapping("/check-confirmed-order/{order_status}")
-    // public List<SaleOrder> checkOrderStatus(@PathVariable("order_status") String order_status) 
-    // {
-    //     System.out.println("Check Confirmed Order Successfully!!");
-    //     return saleOrderService.checkOrderStatus(order_status);
-    // }
-
     @GetMapping("/check-confirmed-order")
     public List<SaleOrder> checkOrderStatus() 
     {
