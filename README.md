@@ -209,7 +209,8 @@ Use tools like Postman or curl to send POST requests to the /createSaleOrder end
 ---
 
 ### 🪚 Tools Used:
-![Static Badge](https://img.shields.io/badge/spring-%252320232a.svg?style=for-the-badge&logo=spring&logoColor=%233cb043&color=%23fbec5d)
-![Static Badge](https://img.shields.io/badge/spring%20boot-%252320232a.svg?style=for-the-badge&logo=springboot&logoColor=%233cb043&color=%23fbec5d)
-![Static Badge](https://img.shields.io/badge/apache%20kafka-%252320232a.svg?style=for-the-badge&logo=apachekafka&logoColor=%23000000&color=%2300bdfe)
-![Static Badge](https://img.shields.io/badge/visual%20studio%20code-%252320232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=%230000FF&color=%235dbb63)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka Badge](https://img.shields.io/badge/apache%20kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=%23white&color=%23000000)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
